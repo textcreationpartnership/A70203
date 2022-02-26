@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of Edmund Heming, who first set up the new lights in the city of London</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70203</idno>
+            <idno type="STC">Wing H1415</idno>
+            <idno type="STC">ESTC R5307</idno>
+            <idno type="EEBO-CITATION">11182943</idno>
+            <idno type="OCLC">ocm 11182943</idno>
+            <idno type="VID">46585</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70203)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46585)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 278:13 or 1437:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of Edmund Heming, who first set up the new lights in the city of London</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>This item can be found at reels 278:13 and 1437:15.</note>
+                  <note>Wing number C906 cancelled in Wing (2nd ed.).</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Heming, Edmund, fl. 1695.</term>
+               <term>London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46585:1"/>
+            <pb facs="tcp:46585:1" rendition="simple:additions"/>
+            <p>THE CASE OF <hi>Edmund Heming.</hi> Who Firſt ſet up the NEW LIGHTS IN THE CITY of <hi>LONDON.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed in the Year, MDCLXXXIX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="narrative">
+            <pb facs="tcp:46585:2"/>
+            <pb n="3" facs="tcp:46585:2"/>
+            <head>THE CASE OF <hi>EDM<g ref="char:V">Ʋ</g>ND HEMING,</hi> &amp;c.</head>
+            <p>THAT through the great Pains and Indu<g ref="char:EOLhyphen"/>ſtry of <hi>Edmund Heming,</hi> that excellent and uſeful Invention of New Lights is brought to ſuch Perfection, as hath given great Satisfaction in General to the Publick. And he had not only the great Trouble of Contriving, Making, Fixing, and Setling this Invention, but did al<g ref="char:EOLhyphen"/>ſo run great Hazards of conſiderable Sums of Money expended therein, not knowing what Encouragement it might meet with; and as all Inventions are moſt Chargeable in their Infancy, ſo they meet with moſt Oppoſition, when they ſeem to Prejudice ſome Private Intereſt. And altho the Publick doth receive great Be<g ref="char:EOLhyphen"/>nefit by this Projection, yet it had certainly miſcarried, if great Care and Diligence had not been uſed to pre<g ref="char:EOLhyphen"/>vent the unwearied Attempts of ſome Perſons. It is almoſt incredible to tell the many Troubles and Diffi<g ref="char:EOLhyphen"/>culties the ſaid <hi>Heming</hi> hath gone through, (and indeed)
+<pb n="4" facs="tcp:46585:3"/>
+altogether unneceſſary to publiſh, but upon this occa<g ref="char:EOLhyphen"/>ſion, and thereby to ſhew how unjuſt the ſaid <hi>Heming</hi> hath been dealt with, by thoſe that are concern'd in Copartnerſhip with him.</p>
+            <p>The firſt great Trouble to him, was occaſioned by one Mr. <hi>Vernatti,</hi> who ſet up the Glaſs Lights in <hi>Cornhill,</hi> and much Oppoſition was made by the Lord Mayor's Officers; alſo the Company of <hi>Tallow-Chand<g ref="char:EOLhyphen"/>lers,</hi> the Company of <hi>Tin-Men,</hi> and the Company of <hi>Horners,</hi> infeſted him beyond Example; and there were many Hearings (by Council) before the Lord Mayor, and Court of Aldermen. And many Objections thoſe Companies did offer to the Court; ſometimes alledging that if the ſaid <hi>Heming</hi> ſhould be encouraged in the In<g ref="char:EOLhyphen"/>vention, it would be deſtructive to their particular Trades and Advantage, which indeed they only aimed at, without any regard to the Benefit of the Publick. All which Objections, the ſaid <hi>Hemings</hi> was obliged to Obviate, and did fully Anſwer, even to a clear Satisfa<g ref="char:EOLhyphen"/>ction. That at the ſame time, he had all the Care and Management of all the New Lights ſet up in <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> and Places adjacent; and the looking after, and paying all his Servants, and himſelf never went to Bed all the Winter, till Twelve or One a Clock, and was conſtantly up again at Four or Five in the Morning, to Trim and Order the Lights, not having at that time skilful hands inured to manage them. And he was the more willing to do all this, leſt ſome of his Ser<g ref="char:EOLhyphen"/>vants ſhould be Brib'd to neglect their Duty, by thoſe that were inveterate Enemies to the Invention, there<g ref="char:EOLhyphen"/>by to bring a diſrepute upon the Lights, and ſo to Ruin the Undertaking. And 'tis well known to many,
+<pb n="5" facs="tcp:46585:3"/>
+that by being out at unſeaſonable Hours, he got a Fit of Sickneſs, that it was not expected he could live; and yet he was ſtill obliged to do more than his ſtrength would bear, by reaſon none but himſelf knew how to manage the Affair.</p>
+            <p>Hereupon he obtained the Encouragement of the Lord Mayor and Court of Aldermen, who were plea<g ref="char:EOLhyphen"/>ſed to Iſſue out their Precepts to all the Wardmotes and Gentlemen of the Queſts in <hi>London,</hi> recommend<g ref="char:EOLhyphen"/>ing the New Lights as worthy of their Encourage<g ref="char:EOLhyphen"/>ment.</p>
+            <p>He did carry on this Invention almoſt two years before any came into Copartnerſhip with him, only one Mr. <hi>Samuel Hutchinſon</hi> did Covenant with him, to lay in for Stock, the Sum of 1000 <hi>l.</hi> when the ſaid <hi>Heming</hi> firſt began, but he never received one Peny of the ſaid Mr. <hi>Hutchinſon</hi> to this day; ſo that he was obliged to go forward, or loſe all the vaſt Charge and Expence he had been at. That in the year 1686. he entred into Copartnerſhip with Mr. <hi>John Bulteele,</hi> Mr. <hi>Francis Alwyn,</hi> Mr. <hi>Haley Biſhop,</hi> and Mr. <hi>John Reeves,</hi> and the ſaid Parties did Covenant to raiſe 640 <hi>l.</hi> as preſent Stock, to carry on the Undertaking; and by Cove<g ref="char:EOLhyphen"/>nants they were obliged reſpectively to pay in their Proportions within one Month after the Sealing there<g ref="char:EOLhyphen"/>of, or otherwiſe every of them did debar himſelf, his Executors, Adminiſtrators and Aſſigns, of any Right, Claim or Intereſt in the ſaid Invention; and ſuch Share or Shares are to be diſpoſed of to thoſe that run the Hazard of Stock upon the Intereſt, which was thought to be a reaſonable Covenant, for that otherwiſe any Perſon might omit putting in of his Stock, and yet might come in when he pleaſed;
+<pb n="6" facs="tcp:46585:4"/>
+ſo that all the Expence and Hazard would in ſuch Caſe lye upon one Perſon, or more, as it might happen; and if the Invention miſcarried, the others would loſe no<g ref="char:EOLhyphen"/>thing; but if any profits did ariſe, they would certainly come in for their Shares.</p>
+            <p>The Stock to be laid in, being 640 <hi>l.</hi> for the pre<g ref="char:EOLhyphen"/>ſent, <hi>viz. John Bulteele</hi> 100 <hi>l.</hi> in Glaſſes; <hi>Haly Biſhop</hi> 20 <hi>l</hi> for his own <hi>32th</hi> Part, and 20 <hi>l.</hi> more for a cer<g ref="char:EOLhyphen"/>tain Gentlemans <hi>32th</hi> Part; and the ſame Gentleman laid in Stock 40 <hi>l.</hi> for <hi>John Reeves,</hi> and <hi>Edmond Heming</hi> laid in 50 <hi>l.</hi> as Stock for the ſaid <hi>Reeves;</hi> ſo that it doth appear, the ſaid <hi>Heming</hi> hath received but 80 <hi>l.</hi> in Money: (except the 50 <hi>l.</hi> which he himſelf put in as Stock for the ſaid <hi>Reeves)</hi> And he hath re<g ref="char:EOLhyphen"/>ceived no more Money upon account of Stock from any of his Partners to this day, and yet hath carried on this Affair from the year 1684, to the year 1688. and maintained the Lights in good Repair and Reputa<g ref="char:EOLhyphen"/>tion, according to his Covenants, to the general Satisfaction of all that have agreed with him, and ne<g ref="char:EOLhyphen"/>ver did reimburſe himſelf one Farthing, for all the Mo<g ref="char:EOLhyphen"/>neys he hath laid out from the year 1684. to the lat<g ref="char:EOLhyphen"/>ter end of 1687. or the beginning of 1688. and then what Money he Received, was Gathered by his own Care and Pains, of ſuch Perſons as he could get to pay towards the Lights, or for Lights ſold to other Parts of <hi>England.</hi> That he verily believes he hath not uſed much above 200 <hi>l.</hi> worth of Glaſs more, than for what he and Mr. <hi>Bulteele</hi> had paid ready Money to Mr. <hi>Haley Biſhop;</hi> and he is ready to pay his Money pro<g ref="char:EOLhyphen"/>portionable to his Share, for what Glaſs more he hath uſed; but the ſaid Mr. <hi>Biſhop</hi> hath made greater Quan<g ref="char:EOLhyphen"/>tities of Glaſs, than ever was beſpoke, or will be uſed
+<pb n="7" facs="tcp:46585:4"/>
+in three or four years, tho he was to make no more than was neceſſary, or what he ſhould have Order for. That the ſaid <hi>Heming</hi> came to the ſaid <hi>Biſhop</hi>'s Houſe, and there ſaw the Glaſs, and told him a great deal of it was not made fit for his Purpoſe, and the ſaid <hi>Biſhop</hi> did himſelf own it, when he heard the Rea<g ref="char:EOLhyphen"/>ſons thereof; but did deſire the ſaid <hi>Heming</hi> to take the whole Parcel, and uſe what he could, and the reſt was to be returned; all which will be made appear upon Oath; yet the ſaid <hi>Biſhop</hi> hath refuſed to receive back ſuch Glaſs as the ſaid <hi>Heming</hi> finds not fit for his Pur<g ref="char:EOLhyphen"/>poſe, and to diſcharge the Account of it. That the ſaid <hi>Biſhop</hi> hath been told, and knows very well, that the ſame Quantity of Glaſs, and as good for that uſe, may be bought for 60 <hi>l.</hi> for which Mr. <hi>Biſhop</hi> is paid 100 <hi>l.</hi> which is 40. <hi>per Cent.</hi> more than Common Pro<g ref="char:EOLhyphen"/>fit; yet is the ſaid <hi>Heming</hi> willing to allow that extra<g ref="char:EOLhyphen"/>vagant Price for ſo much as he hath already uſed, but thinks himſelf not obliged to wrong himſelf and the Copartners of ſo much Money, when it may be ſaved in dealing with another. So that it's plain, Mr. <hi>Biſhop</hi> never bought his <hi>32th</hi> Part to get by that, but by the Glaſs he ſuppoſed would be uſed in the Affair; for as a Copartner, every man is obliged to buy as cheap as he can; and if a Partner deals in a Commodity, which the Invention does uſe, he ought to ſell as Cheap and Reaſonable as another. But by this means, Mr. <hi>Biſhop</hi> only deſigns his own Intereſt, and not the good of the Copartnerſhip, but it's Ruin and Deſtruction; for his <hi>32d</hi> Part will hereby gain more Profit, than all the Shares beſides; As for Inſtance, For every 100 <hi>l.</hi> contracted, Mr. <hi>Biſhop</hi>'s Share is but 3 <hi>l.</hi> 6 <hi>s.</hi> 9 <hi>d.</hi> to pay towards it; and for every 100 <hi>l.</hi> worth of Glaſs,
+<pb n="8" facs="tcp:46585:5"/>
+his Dividend allowed is 36 <hi>l.</hi> 13 <hi>s.</hi> 9 <hi>d.</hi> more than Common Profit. And this Diſcovery ſtriking at his Intereſt, and finding himſelf like to loſe his over-reach<g ref="char:EOLhyphen"/>ing Deſign, he contrives all ways imaginable to diſ<g ref="char:EOLhyphen"/>inable the ſaid <hi>Heming,</hi> and to make him uncapa<g ref="char:EOLhyphen"/>ble of going on with his Deſign, as will more appa<g ref="char:EOLhyphen"/>rently appear by his Fraudulent and Irregular Acti<g ref="char:EOLhyphen"/>ons. Mr. <hi>Alwyn</hi> having laid in no Stock, by his own Hand and Seal hath cut himſelf off of any Right, Claim or Intereſt, in the Invention. Mr. <hi>Reeves</hi> is under Age, and his Guardian dead, ſo that only <hi>Bul<g ref="char:EOLhyphen"/>teele, Biſhop,</hi> and <hi>Heming,</hi> can Act. Some time ſince, one <hi>Geary</hi> a Weaver in <hi>Old Street,</hi> came to the ſaid <hi>Heming,</hi> and told him he had bought Mr. <hi>Alwyn</hi>'s Intereſt; to which was anſwer'd, That they could not let him in; but if he had a good Title to the Intereſt, he might exhibit a Bill in <hi>Chancery,</hi> and they could not hinder him; and the ſaid <hi>Geary</hi> and others concerned with him, told the ſaid <hi>Heming,</hi> That if he would let them come in, without any trouble, they would bear him harmleſs, and ſecure him from any other Pretenſi<g ref="char:EOLhyphen"/>ons, or any damage that ſhould happen by their coming in upon thoſe ſhares. Whereupon the ſaid <hi>Heming</hi> did agree with them, and the Copartnerſhip was to be drawn to the content of each Perſon, and their Attor<g ref="char:EOLhyphen"/>ney was to call for it to engroſs; but the Gentlemen had changed their Minds, and would not ſuffer it to be drawn, till they had ſeen the Account; but <hi>Heming</hi> was adviſed by Council, that he was not obliged to ex<g ref="char:EOLhyphen"/>poſe his Accounts to Perſons (as then) unconcern'd, for by ſo doing, he ſhould give them liberty of being on or off as they pleaſed; and eſpecially conſidering there was a Commiſſion of Bankrupt againſt Mr. <hi>Van-Beaſler,</hi>
+               <pb n="9" facs="tcp:46585:5"/>
+who ſold the Shares to Mr. <hi>Alwyn,</hi> of whom <hi>Geary</hi> ſaith he bought them; ſo that in ſuch Caſe the Right lay in the Aſſigns of the Creditors of <hi>Vanbeaſler,</hi> they paying their Proportion of all Moneys laid out upon Account of the Shares, with Intereſt, and ſuch other Charges as ſhall juſtly appear; otherwiſe it right<g ref="char:EOLhyphen"/>fully devolved to <hi>Heming,</hi> who indeed laid down the Stock.</p>
+            <p>That the ſaid <hi>Geary</hi> bought the Intereſt of <hi>Alwyn</hi> for 130 <hi>l.</hi> and that by an old Debt too, which is in<g ref="char:EOLhyphen"/>deed, worth 1000 <hi>l.</hi> and with good Management, and the Improvements that may be made thereof, will pay all the Creditors of Mr. <hi>Van-Beaſler</hi> twenty Shil<g ref="char:EOLhyphen"/>lings in the Pound. After this, Mr. <hi>Geary,</hi> and thoſe concerned with him, preſently apply themſelves to Mr. <hi>Biſhop,</hi> and Mr. <hi>Bulteele,</hi> who readily compli<g ref="char:EOLhyphen"/>ed and cloſed with them. But it muſt be confeſs'd Mr. <hi>Bulteele</hi> hath ſeveral times ſolemnly declared, be<g ref="char:EOLhyphen"/>fore divers Perſons, that he knew nothing of thoſe Scandalous Advertiſements, put forth in the <hi>Gazette</hi> againſt <hi>Heming,</hi> and it was done contrary to his Know<g ref="char:EOLhyphen"/>ledg; ſo that it appears to be chiefly contrived by Mr. <hi>Biſhop,</hi> who hath but one ſmall Share, and <hi>Geary</hi> and others, who have no Right at all in Law or Equity; and yet the ſaid <hi>Geary</hi> hath ſtiled himſelf in the <hi>Ga<g ref="char:EOLhyphen"/>zette, Numb.</hi> 2414. a Patentee with Mr <hi>Biſhop,</hi> inſi<g ref="char:EOLhyphen"/>nuating that the ſaid <hi>Heming</hi> hath not any part there<g ref="char:EOLhyphen"/>in; altho it doth plainly appear, he is a Party in all the Leaſes that are made, and all Moneys payable unto the ſaid <hi>Heming,</hi> or his Receipts. And <hi>Geary</hi> hath ſent one up and down the Town, to acquaint the Inhabi<g ref="char:EOLhyphen"/>tants, that the ſaid <hi>Heming</hi> hath nothing to do in the Affair, and was no more but a Servant to them.</p>
+            <p>
+               <pb n="10" facs="tcp:46585:6"/>
+The ſaid Copartners and others, have called upon <hi>Heming</hi> for an Account, and made a great Clamour, as if they had intruſted him with great Sums of Mo<g ref="char:EOLhyphen"/>ney, and could not get any Account from him; but it were much more reaſon to give in their own Ac<g ref="char:EOLhyphen"/>counts firſt, for ſeveral Sums of Money which they have received for Lights that the ſaid <hi>Heming</hi> made and ſet up; and he doth not doubt but Mr. <hi>Bulteele</hi> hath very near reimburſt himſelf already by ſuch Mo<g ref="char:EOLhyphen"/>ney received by him. That altho Mr. <hi>Bulteele</hi> and Mr. <hi>Biſhop</hi> never gave any Account to him to this day, yet <hi>Heming</hi> ſent them an Account in <hi>September</hi> laſt, of all Moneys that had been disburſed and received by him, to that time, and the Names of each Perſon he received it of; which Account hath ſince been ſhewn to a Gentleman, who they did agree ſhould Audit it, and that they would pay <hi>Heming</hi> all ſuch Money as ſhould be awarded due to him; but until Mr. <hi>Biſhop</hi> and Mr. <hi>Bulteele</hi> would enter into Bonds of Arbitrati<g ref="char:EOLhyphen"/>on with <hi>Heming,</hi> to ſtand to ſuch Award, the Gentle<g ref="char:EOLhyphen"/>man would not meddle; and nothing being done therein, <hi>Heming</hi> has no other way left him, but to proceed againſt them in <hi>Chancery,</hi> to get his Money, which does amount to 1100 <hi>l.</hi> and upwards, due to him, diſcounting all Money received by him. So that upon the whole matter, 'tis eaſie to diſcern who hath been the greateſt Sufferer for want of an Account.</p>
+            <p>
+               <hi>Heming</hi> hath raiſed and disburſed upon his own Cre<g ref="char:EOLhyphen"/>dit, 1546 <hi>l.</hi> and upwartds, beſides Intereſt Money, and the Damage which he hath ſuffered for want of the Mo<g ref="char:EOLhyphen"/>ney of his Copartners to be laid in, proportionable to their Shares; and the Invention muſt of neceſſity have periſhed, if the ſaid <hi>Heming</hi> had not had good
+<pb n="11" facs="tcp:46585:6"/>
+Friends to ſtand by him, and been otherwiſe ſupport<g ref="char:EOLhyphen"/>ed than by ſuch Doughty Copartners. Now could any honeſt thinking man believe, That the ſaid <hi>He<g ref="char:EOLhyphen"/>ming</hi> could pay near 700 <hi>l.</hi> for Mens bare Wages, buy Oyl, Iron-work, Tin-Plates, Soder, Wire, Poſts, Boards, Painting, Cotton, Working Tools for the Men, and pay Houſe-rent where they work, and all Fees to Coun<g ref="char:EOLhyphen"/>cil, and neceſſary Charges ſpent in Defence againſt the Three Companies, and others; which Charge alone is near as much Money as the ſaid <hi>Heming</hi> ever received from his Partners, beſides his own neceſſary Pocket Ex<g ref="char:EOLhyphen"/>pence relating to this Affair, which he has reaſon to believe to be more than the other, and which he never yet charged. And altho the Copartners do very well know all this, and Mr. <hi>Bulteele</hi> lived in the ſaid <hi>He<g ref="char:EOLhyphen"/>ming</hi>'s Houſe Three years, and ſaw the many Sums of Money he continually paid, and what daily occaſion there was for more Money, never receiving one Penny of Profit or Advantage from the Invention, till the latter end of the Year 1687, and the beginning of 1688. And yet the ſaid <hi>Heming</hi> was obliged to raiſe Money upon his own Credit, or the Invention had inevitably fallen, and come to nothing.</p>
+            <p>That by Covenants of Copartnerſhip, the ſaid <hi>He<g ref="char:EOLhyphen"/>ming</hi> is to be paid by the Copartners, and to receive a Salary of 90 <hi>l. per Annum,</hi> for which there is 200 <hi>l.</hi> due to him, and unpaid, and of which they have not paid him one Penny. It hath been the unhappineſs of the ſaid <hi>Heming</hi> to have to do with a ſort of <hi>rapacious</hi> Men, that were in expectation of getting Money by the Invention, before they had ſcarcely laid out any Money thereupon; and Wiſe Men have thought and declared, That if the ſaid <hi>Heming</hi> ſhould be able to
+<pb n="12" facs="tcp:46585:7"/>
+bring the Invention two Years hence, to make good the Principal Money disburſed thereupon, it would be a very great Accompliſhment; and yet this he hath done beyond Expectation. And therefore let it be remem<g ref="char:EOLhyphen"/>bred with how little colour or pretence, they can charge <hi>Heming</hi> with running the Invention in debt; and whether with much more reaſon it may not be juſtly charged upon Mr. <hi>Biſhop</hi> himſelf upon the Conſiderations before mentioned.</p>
+            <p>Thus <hi>Heming</hi> having brought the Invention to bear part of its own Charges, now ſome by Force, and others without any Title, will forcible come in, whether he will or no, and receive the Profits thereof, with which the ſaid <hi>Heming</hi> ought in the firſt place, to reimburſe himſelf, and to pay all the juſt Debts relating to the Copartnerſhip; the Copartners being bound under their Hands and Seals to ſtand by the ſaid <hi>Heming,</hi> and to ſave him harmleſs from all Actions, Suits, and Inci<g ref="char:EOLhyphen"/>dent Charges and Expences that ſhall ariſe upon ac<g ref="char:EOLhyphen"/>count of the Invention; and alſo to pay all juſt Debts with the ſaid <hi>Heming,</hi> that ſhall become due upon the ſame; and yet though the ſaid <hi>Heming</hi> hath ſent ſeve<g ref="char:EOLhyphen"/>ral of the Creditors to demand their Money of the ſaid Copartners, they have ſent them back again, ſay<g ref="char:EOLhyphen"/>ing, <hi>Heming</hi> agreed with them, and they muſt ſue him for the Money. Nay, they have brought ſeveral Actions againſt him themſelves; and by their procure<g ref="char:EOLhyphen"/>ment and inſtigation, have made divers Creditors, and others, to do the ſame, on purpoſe to ruin him, if they can, and to deſtroy the whole Invention; and they have been heard to ſay, If they could but lay him faſt in Goal, and ſo keep him under Confinement, they ſhould force him to comply, and be Maſters of all them<g ref="char:EOLhyphen"/>ſelves.
+<pb n="13" facs="tcp:46585:7"/>
+Yet in all this they have hitherto failed, and he goes on to ſet up his Lights in ſeveral Parts of the City, and Places adjacent, for the Benefit of the Pub<g ref="char:EOLhyphen"/>lick, being the true end, for which the Patent was at firſt granted.</p>
+            <p>They have indeed demanded a ſpecial Writing, wherein they are obliged to pay all juſt Debts with the ſaid <hi>Heming,</hi> and threatn'd if he would not deliver it up, they would <hi>Gazette</hi> him; to which the Anſwer was eaſy, <hi>viz.</hi> That if they could make it appear, that there was one Grain of Honeſty or Juſtice in their Demands, he would deliver them ſuch Writings im<g ref="char:EOLhyphen"/>mediately; but till then, he was reſolved to keep it, and thinks he has very good reaſon ſo to do. It can be proved, that at the very time, when the ſaid Co<g ref="char:EOLhyphen"/>partners did call on <hi>Heming</hi> for his Accompt, they did forbid <hi>Ralph Grethorex</hi> then his Clerk, to deliver him his Books; ſo that <hi>Grethorex</hi>'s Accompt is not made up to this day; and when <hi>Heming</hi> Arreſted him for his Books and Money due to him, Mr. <hi>Geary</hi> and others Bailed him out; all which plainly ſhews their Confe<g ref="char:EOLhyphen"/>deracy and Combination againſt <hi>Heming,</hi> even to an utter Breach of the Copartnerſhip it ſelf. And more<g ref="char:EOLhyphen"/>over they ſent <hi>Grethorex</hi> to all the Houſes in and about <hi>London,</hi> where <hi>Heming</hi> had placed the Lights, and forbid each Houſe to deliver them to <hi>Heming,</hi> or his Agents, on purpoſe to alarm the Town, and to give People occaſion to think that <hi>Heming</hi> was either Run away, or had committed ſome baſe and diſhoneſt Action, whereof he could not juſtify himſelf, and with deſign to ruin his Credit; that the ſaid <hi>Heming</hi> did borrow 100 <hi>l.</hi> of a Gentleman, who ſometimes after called for his Money, who was thereupon brought to
+<pb n="14" facs="tcp:46585:8"/>
+Mr. <hi>Biſhop,</hi> who knew the Money was all borrowed for the Service of the Copartnerſhip; but the ſaid <hi>Bi<g ref="char:EOLhyphen"/>ſhop</hi> would in no wiſe be concerned therein; whereup<g ref="char:EOLhyphen"/>on <hi>Heming</hi> did give the Creditor as much Commodi<g ref="char:EOLhyphen"/>ty into his hands, as would ſecure the Debt, till the ſaid <hi>Heming</hi> could otherwiſe raiſe Money to pay him; and upon this Score only, have they upbraided <hi>Hem<g ref="char:EOLhyphen"/>ing,</hi> and induſtriouſly ſpread it up and down the Town, that he hath pawned the Goods belonging to the Co<g ref="char:EOLhyphen"/>partners.</p>
+            <p>Now after all this, theſe Gentlemen pretend great kindneſs to me, and offer to lend me 4 or 500 <hi>l.</hi> more than my Disburſements are, upon Condition that I will let them quietly into the Concern, and give them my Accounts; which I neither can, or ought to do; for that I cannot believe they can ever have any kindneſs for my Perſon, who have not only, ſo barbarouſly wounded me in my Reputation with Lyes and Slan<g ref="char:EOLhyphen"/>ders, that fly like the Arrows by Night; but have bro<g ref="char:EOLhyphen"/>ken all the Bonds and Covenants of our Copartnerſhip, as appears by the Premiſes. I could add much more, but I ſhould tire my ſelf and the Reader to go through all; therefore I will only add this, that notwithſtanding all the ill dealing I have met with from my Copartners; yet by the Bleſſing of God, I do not deſpair to be once more Maſter of this my Undertaking, and to retrieve the Reputation it hath loſt by the ill Management of ignorant, unjuſt, and ſelf-deſigning Men.</p>
+            <p>And whereas <hi>Geary</hi> and others, have unlawfully en<g ref="char:EOLhyphen"/>tred upon the Lighting of ſome Parts of the City, and lett Leaſes in <hi>Geary</hi>'s Name, all ſuch Leaſes are naught; the ſaid <hi>Geary</hi> having no Right in the Patent by the Aſſignment of Mr. <hi>Alwyn,</hi> as he pretends: And the ſaid
+<pb n="15" facs="tcp:46585:8"/>
+               <hi>Geary</hi> beginning to be aweary of his unjuſt Underta<g ref="char:EOLhyphen"/>king, People refuſing to Truſt him with Oyl, and other Materials, I do take all poſſible Care I can, to ſupply the firſt Defect that they ſhall make in Lighting, and go on to perform my Covenant, as by the Leaſes bound.</p>
+            <p>And whereas each Inhabitant hath an equal Property with me, in all the Lights placed up in the Street, for the Term of five years; you are therefore deſired to take care that no Perſon with what Pretenſion ſoever, take down any of the Lights, except I come my ſelf, or ſome of my Servants, that ſhall have my Hand and Seal for ſo doing; who will take care the Lights be placed in ſuch Houſes in your Streets, that they may be ſafe, and forth coming, and ſit for your Service for the enſuing Year.</p>
+         </div>
+         <div type="advert">
+            <head>ADVERTISEMENT.</head>
+            <p>IF any Gentlemen or others, are willing to be accommo<g ref="char:EOLhyphen"/>dated with New Lights in their Street, Houſes, Sta<g ref="char:EOLhyphen"/>bles, Yards, Lead-Mines, Tin<g ref="char:punc">▪</g>Mines, or Coal-Mines, or for Coaches or Horſes that Travel late at night, they may be furniſhed therewith by <hi>Edmund Heming,</hi> living near the Still-yard in <hi>Thames</hi> ſtreet, who made the firſt Lights that were ſet up in <hi>London,</hi> for the <g ref="char:V">Ʋ</g>se and Be<g ref="char:EOLhyphen"/>nefit of the Publick. And if any Gentleman hath a deſire to have his Coat of Arms, or any other Fancy appear in the ſaid Light, it ſhall be performed by the ſaid <hi>Heming,</hi> in a very Curious manner: And whereas the Partners of the ſaid <hi>Heming</hi> have cauſed a difference between them<g ref="char:EOLhyphen"/>ſelves
+<pb n="16" facs="tcp:46585:9"/>
+and him; and the ſaid Partners, and pretended Patentees, who are wholly ignorant, and were never Ma<g ref="char:EOLhyphen"/>ſters of the Invention, have by themſelves made ſeveral Lights in imitation of thoſe Lights firſt made and ſet up by the ſaid <hi>Heming,</hi> much to the diſparagement of the Invention, many of them giving no better Light than the common Glaſs-Lights, contrary to the expreſs Words of the Patent for the great and durable Encreaſe of Light. You are therefore deſired to take Notice, That ſuch Lights are ſet up contrary to the knowledg and direction of the ſaid <hi>Heming,</hi> and are none of the Right Make.</p>
+            <p>
+               <hi>This Caſe as ſtated, will help the Gentlemen to be better Advic'd by Council, and they then may know the truth of their Title.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:46585:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
